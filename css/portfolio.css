@@ -1,0 +1,135 @@
+/* Nav Section */
+.link-text{
+  font-size: 1rem;
+}
+
+.logo-img{
+  height: 120%;
+}
+
+.navTxt{
+  color: #004aad;
+}
+
+.navTxt:hover{
+  color: #ff66c4;
+}
+
+
+/* heading Section */
+.connect-btn{
+  padding: 12px 25px 10px 25px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-size: 12px;
+  color: white;
+  background-color: #ff66c4;
+  border: none;
+  border-radius: 5%;
+}
+
+
+
+.connect-btn:hover{
+  background-color: #db56a7;
+  color: white;
+}
+
+.name{
+  /* font-family: 'Fredericka the Great', cursive; */
+  font-family: 'Fugaz One', cursive;
+  letter-spacing: 1.5;
+  font-size: 5rem;
+}
+
+.sub-heading{
+  font-size: 1rem;
+}
+
+.sub-content{
+  text-align: center;
+}
+.sub-title{
+  color: #ff66c4;
+}
+
+
+
+.projectsHeader{
+  margin-top: 7%;
+  text-align: center;
+  color: #004aad;
+}
+
+
+/* Portfolio section */
+/* img.pf-img{
+  padding-left: 10%;
+
+} */
+
+.portfolio-intro{
+  letter-spacing: 3px;
+  color: #ff66c4;
+  font-size: 2rem;
+}
+
+.quote{
+  color:#004aad;
+}
+
+
+/* More Section */
+
+.moreHeading{
+  color: #ff66c4;
+}
+
+/* footer */
+
+.closing{
+  text-align: center;
+  padding-bottom: 3%;
+  color:#004aad;
+}
+
+/* Projects */
+.projectTitle{
+  color: #ff66c4;
+}
+
+/* footer */
+
+footer{
+  background-color: #ff66c4;
+}
+
+.footer-intro{
+  font-size: 2rem;
+  letter-spacing: 3px;
+  color: white;
+  text-align:center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.footer-list{
+  text-align: center;
+}
+
+.icon{
+  font-size: 3rem;
+  padding: 0 3% 0 3%;
+}
+
+.resume-btn{
+  background-color: white;
+  color: #004aad;
+  border-radius: 5%;
+   margin-right: 45%;
+   margin-top: 3%;
+}
+
+.resume-btn:hover{
+  color: #ff66c4;
+}
